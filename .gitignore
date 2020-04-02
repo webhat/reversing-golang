@@ -1,0 +1,5 @@
+*opt
+*notopt
+.*.sw[op]*
+routine
+func
